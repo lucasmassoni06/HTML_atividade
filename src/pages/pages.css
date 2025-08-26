@@ -1,5 +1,5 @@
-*{
-
+html,body{
+    margin:0px;
 }
   .itensC {
     display: flex;
@@ -82,4 +82,15 @@
     background-color: #000; 
     color: #fff; 
     transform: scale(1.05); 
+}
+
+header {
+   background-color:rgb(107, 107, 107);
+  color: #FFF;
+  padding: 10px 0; 
+  text-align: center;
+}
+
+header img{
+    max-height:150px;
 }
